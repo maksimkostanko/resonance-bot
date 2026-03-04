@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Interactions Endpoint</title>
+</head>
+<body>
+<p>This endpoint is a placeholder. The bot uses Gateway events, no webhooks are required.</p>
+</body>
+</html>
